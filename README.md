@@ -1,4 +1,3 @@
-<WritingBlock id="73519" variant="document">
 # Market Data Extractor
 
 A Python-based tool for extracting residential real estate market statistics from publicly available reports published by local real estate boards.
